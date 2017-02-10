@@ -13,3 +13,5 @@ Additionally you need pkg-config (www.freedesktop.org/software/pkgconfig/)
 
 In case you want to package wv2, please use the --disable-debug flag to get
 rid of the debug output.
+
+Notes:this is patched code for doctotext
